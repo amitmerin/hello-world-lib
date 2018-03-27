@@ -1,1 +1,1 @@
-export { HelloWorldService } from './hello-world-service';
+export { HelloWorldLib } from './hello-world-lib';

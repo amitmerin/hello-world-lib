@@ -1,3 +1,3 @@
-import {HelloWorldService} from './hello-world-service'
+import {HelloWorldLib} from './hello-world-lib'
 
-export {HelloWorldService} from './hello-world-service'
+export {HelloWorldLib} from './hello-world-lib'

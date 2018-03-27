@@ -2,13 +2,13 @@
  * 
  * 
  * @export
- * @class HelloWorldService
+ * @class HelloWorldLib
  * @description The business logic
  */
-export class HelloWorldService {
+export class HelloWorldLib {
 
     getHelloWorld(): string {
-        return 'Hello World';
+        return 'Hello World Lib';
         
     }
 
@@ -19,7 +19,7 @@ export class HelloWorldService {
 
 
                 }
-                resolve('Hello World Async');
+                resolve('Hello World Lib Async');
             } catch (error) {
                 reject(`Got rejected, error=${error}`);
             }
