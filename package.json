@@ -1,0 +1,15 @@
+{
+  "name": "uds-hello-world-lib",
+  "version": "1.0.0",
+  "description": "Hello World Lib ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git-cd.isus.emc.com:uds/uds-hello-world-lib.git"
+  },
+  "author": "Amit Merin",
+  "license": "ISC"
+}
