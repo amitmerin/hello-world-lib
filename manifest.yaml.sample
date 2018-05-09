@@ -1,0 +1,7 @@
+applications:
+- name: uds-hello-world-lib-test
+  memory: 64M
+  command: npm start
+  --buildpack: https://github.com/cloudfoundry/nodejs-buildpack
+  buildpack: dicf_nodejs_buildpack_latest
+  
